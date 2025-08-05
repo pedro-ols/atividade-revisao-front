@@ -1,5 +1,25 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import localFont from "next/font/local";
+
+import Header from "../components/header";
+// Configurar fonte local baixada
+// const cormorantGaramond = localFont({
+//   src: [
+//       {
+//           path: "/fonts/CormorantGaramond-Regular.ttf",
+//           weight: "400",
+//           style: "normal",
+//       },
+//       {
+//           path: "/fonts/CormorantGaramond-Regular.ttf",
+//           weight: "700",
+//           style: "normal",
+//       },
+//   ],
+//   variable: "--font-cormorant",
+//   display: "swap",
+// });
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
