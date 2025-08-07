@@ -44,7 +44,7 @@ export default function Home() {
     {
       id: 4,
       category: "laptops",
-      image: null,
+      image: "/public/images/4.png",
       alt: "Dell XPS",
       title: "Dell XPS 13 Intel i7 16GB SSD 512GB",
       price: "R$ 6.799,00",
@@ -55,7 +55,7 @@ export default function Home() {
     {
       id: 5,
       category: "tablets",
-      image: null,
+      image: "",
       alt: "iPad Pro",
       title: 'iPad Pro 12.9" M2 WiFi 128GB',
       price: "R$ 7.299,00",
@@ -110,7 +110,7 @@ export default function Home() {
     {
       id: 10,
       category: "smartphones",
-      image: null,
+      image: "",
       alt: "Xiaomi",
       title: "Xiaomi 13 Pro 256GB Leica",
       price: "R$ 3.999,00",

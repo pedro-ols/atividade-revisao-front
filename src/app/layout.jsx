@@ -3,6 +3,7 @@ import "./globals.css";
 import localFont from "next/font/local";
 
 import Header from "../components/header";
+
 // Configurar fonte local baixada
 // const cormorantGaramond = localFont({
 //   src: [
@@ -40,6 +41,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
+        {/* <Header productsQuant={products.length}/> */}
         {children}
       </body>
     </html>
