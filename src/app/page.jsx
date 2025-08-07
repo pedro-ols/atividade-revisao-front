@@ -9,7 +9,7 @@ export default function Home() {
       id: 1,
       category: "smartphones",
       image:
-        "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?w=300&h=200&fit=crop",
+        "https://github.com/pedro-ols/atividade-revisao-front/blob/main/public/images/1.png?raw=true",
       alt: "iPhone 15 Pro Max",
       title: "iPhone 15 Pro Max 256GB",
       price: "R$ 8.999,00",
@@ -21,7 +21,7 @@ export default function Home() {
       id: 2,
       category: "smartphones",
       image:
-        "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=300&h=200&fit=crop",
+        "https://github.com/pedro-ols/atividade-revisao-front/blob/main/public/images/2.png?raw=true",
       alt: "Samsung Galaxy S24 Ultra",
       title: "Samsung Galaxy S24 Ultra 512GB",
       price: "R$ 7.499,00",
@@ -33,7 +33,7 @@ export default function Home() {
       id: 3,
       category: "laptops",
       image:
-        "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=300&h=200&fit=crop",
+        "https://github.com/pedro-ols/atividade-revisao-front/blob/main/public/images/3.png?raw=true",
       alt: "MacBook Pro",
       title: 'MacBook Pro 14" M3 Pro 18GB',
       price: "R$ 15.999,00",
@@ -44,7 +44,7 @@ export default function Home() {
     {
       id: 4,
       category: "laptops",
-      image: "/public/images/4.png",
+      image: "https://github.com/pedro-ols/atividade-revisao-front/blob/main/public/images/4.png?raw=true",
       alt: "Dell XPS",
       title: "Dell XPS 13 Intel i7 16GB SSD 512GB",
       price: "R$ 6.799,00",
@@ -55,7 +55,7 @@ export default function Home() {
     {
       id: 5,
       category: "tablets",
-      image: "",
+      image: "https://github.com/pedro-ols/atividade-revisao-front/blob/main/public/images/5.png?raw=true",
       alt: "iPad Pro",
       title: 'iPad Pro 12.9" M2 WiFi 128GB',
       price: "R$ 7.299,00",
@@ -66,7 +66,7 @@ export default function Home() {
     {
       id: 6,
       category: "tablets",
-      image: null,
+      image: "https://github.com/pedro-ols/atividade-revisao-front/blob/main/public/images/6.png?raw=true",
       alt: "Galaxy Tab",
       title: "Samsung Galaxy Tab S9+ 256GB",
       price: "R$ 4.999,00",
@@ -77,7 +77,7 @@ export default function Home() {
     {
       id: 7,
       category: "acessorios",
-      image: null,
+      image: "https://github.com/pedro-ols/atividade-revisao-front/blob/main/public/images/7.png?raw=true",
       alt: "AirPods Pro",
       title: "Apple AirPods Pro 2ª Geração",
       price: "R$ 2.399,00",
@@ -88,7 +88,7 @@ export default function Home() {
     {
       id: 8,
       category: "acessorios",
-      image: null,
+      image: "https://github.com/pedro-ols/atividade-revisao-front/blob/main/public/images/8.png?raw=true",
       alt: "Apple Watch",
       title: "Apple Watch Series 9 GPS 45mm",
       price: "R$ 4.299,00",
@@ -99,7 +99,7 @@ export default function Home() {
     {
       id: 9,
       category: "acessorios",
-      image: null,
+      image: "https://github.com/pedro-ols/atividade-revisao-front/blob/main/public/images/9.png?raw=true",
       alt: "Carregador",
       title: "Carregador Sem Fio MagSafe 15W",
       price: "R$ 399,00",
@@ -110,7 +110,7 @@ export default function Home() {
     {
       id: 10,
       category: "smartphones",
-      image: "",
+      image: "https://github.com/pedro-ols/atividade-revisao-front/blob/main/public/images/10.png?raw=true",
       alt: "Xiaomi",
       title: "Xiaomi 13 Pro 256GB Leica",
       price: "R$ 3.999,00",

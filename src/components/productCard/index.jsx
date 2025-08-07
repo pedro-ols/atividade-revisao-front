@@ -9,12 +9,7 @@ export default function ProductCard({ product }) {
       key={product.id}
     >
       <div className={styles.productImage}>
-        <Image
-          src={product.image}
-          alt={product.alt}
-          fill
-          className={styles.image}
-        />
+        <Image src={product.image} alt={product.alt} fill className={styles.image} unoptimized/>
       </div>
       <div className={styles.productTitle}>{product.title}</div>
       <div className={styles.productPrice}>{product.price}</div>
