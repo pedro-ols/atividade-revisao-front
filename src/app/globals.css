@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
 /* globals.css */
 .font-cormorant-regular {
   font-family: var(--font-cormorant);
